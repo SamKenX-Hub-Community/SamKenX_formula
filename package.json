@@ -1,11 +1,12 @@
 {
-    "name": "@hapi/formula",
-    "description": "Math and string formula parser.",
+    "name": "@samkenx/formula",
+    "description": "SAMKENX definition , Math and string formula parser.",
     "version": "3.0.2",
-    "repository": "git://github.com/hapijs/formula",
+    "repository": "git://github.com/samkenxstream/samkenx_formula",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "keywords": [
+        "SAMKENX"
         "formula",
         "parser",
         "math",
@@ -16,14 +17,14 @@
     ],
     "dependencies": {},
     "devDependencies": {
-        "@hapi/code": "^9.0.3",
-        "@hapi/lab": "^25.1.2",
+        "@samkenx/code": "^9.0.3",
+        "@samkenx/lab": "^25.1.2",
         "@types/node": "^14.18.36",
         "typescript": "4.0.x"
     },
     "scripts": {
-        "test": "lab -a @hapi/code -t 100 -L -Y",
-        "test-cov-html": "lab -a @hapi/code -t 100 -L -r html -o coverage.html"
+        "test": "lab -a @samkenx/code -t 100 -L -Y",
+        "test-cov-html": "lab -a @samkenx/code -t 100 -L -r html -o coverage.html"
     },
     "license": "BSD-3-Clause"
 }
