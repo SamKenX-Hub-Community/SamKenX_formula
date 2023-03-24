@@ -1,17 +1,17 @@
-# @sideway/formula
+# @samkenx/formula
 
-#### Math and string formula parser.
+#### SAMKENX definition , Math and string formula parser.
 
-**formula** is part of the **joi** ecosystem.
+**formula** is part of the **SamKenX** ecosystem.
 
-### Visit the [joi.dev](https://joi.dev) Developer Portal for tutorials, documentation, and support
+### Visit the [samkenx.dev](https://samkenx.dev) Developer Portal for documentation, and support
 
 ## Useful resources
 
-- [Documentation and API](https://joi.dev/module/formula/)
-- [Version status](https://joi.dev/resources/status/#formula) (builds, dependencies, node versions, licenses, eol)
-- [Changelog](https://joi.dev/module/formula/changelog/)
-- [Project policies](https://joi.dev/policies/)
+- [Documentation and API](https://samkenx.dev/module/formula/)
+- [Version status](https://samkenx.dev/resources/status/#formula) (builds, dependencies, node versions, licenses, eol)
+- [Changelog](https://samkenx.dev/module/formula/changelog/)
+- [Project policies](https://samkenx.dev/policies/)
 
 ## Acknowledgements
 
